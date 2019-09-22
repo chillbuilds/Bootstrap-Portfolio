@@ -2,10 +2,6 @@ html {
   width: 100%;
 }
 
-#bgImage {
-  background-image: url("https://www.barraques.cat/pngfile/big/0-4116_blue-and-black-galaxy-hd-wallpaper-andromeda-galaxy.jpg");
-}
-
 .img-fluid {
   width: 50%;
   padding: 20px;
