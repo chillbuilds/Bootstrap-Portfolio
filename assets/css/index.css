@@ -1,0 +1,5 @@
+#bgImage {
+    background-image: url("../images/laser-crow.png");
+    background-position: center center;
+    background-size: cover;
+  }
