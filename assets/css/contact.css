@@ -30,13 +30,13 @@ h1 {
 input[type=text] {
     background-color: #3CBCD2;
     border: 0px;
-    opacity: .4;
+    opacity: .8;
 }
 
 input[type=text]:focus {
     background-color: #3CBCD2;
     border: 0px;
-    opacity: .4;
+    opacity: .8;
 }
 
 
