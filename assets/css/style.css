@@ -6,6 +6,10 @@ html {
   background-image: url("https://www.barraques.cat/pngfile/big/0-4116_blue-and-black-galaxy-hd-wallpaper-andromeda-galaxy.jpg");
 }
 
+#bgPortfolio {
+  
+}
+
 .img-fluid {
   width: 50%;
   padding: 20px;
@@ -16,8 +20,9 @@ html {
 p {
   position: relative;
   line-height: 2em;
-  font-size: 26px;
+  font-size: 24px;
   padding: 20px;
+  margin-bottom: 0px;
 }
 
 a {
@@ -89,15 +94,16 @@ h2 {
 }
 
 footer {
+    position: sticky;
     text-align: center;
     width: 110%;
     padding-top: 20px;
     padding-bottom: 40px;
-    margin-top: 20px;
+    margin-top: 40px;
     background: #F8F9FB;
     color: #999999;
     border-top: 10px solid rgb(216, 216, 216);
-    float: left;
+    float: bottom;
   }
 
   .iconFooterTray {
